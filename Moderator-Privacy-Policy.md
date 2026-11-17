@@ -1,18 +1,18 @@
-# BanHammer — Privacy Policy
+# Moderator — Privacy Policy
 
 **Last updated: November 17, 2026**
 
 ## 1. Introduction
 
-This Privacy Policy explains how BanHammer collects, stores, and uses information when operating in Discord servers.
+This Privacy Policy explains how Moderator collects, stores, and uses information when operating in Discord servers.
 
-BanHammer is a moderation bot designed to help server staff identify potential rule violations, review user reports, and take moderation actions.
+Moderator is a moderation bot designed to help server staff identify potential rule violations, review user reports, and take moderation actions.
 
-By using a Discord server where BanHammer is installed, you acknowledge that information may be processed as described in this policy.
+By using a Discord server where Moderator is installed, you acknowledge that information may be processed as described in this policy.
 
 ## 2. Information We Collect
 
-BanHammer may collect and store the following information:
+Moderator may collect and store the following information:
 
 - **Discord user IDs:** Used to identify members, reporters, and moderators.
 - **Server IDs:** Used to associate reports and moderation records with the relevant server.
@@ -41,7 +41,7 @@ Information is not used to publicly accuse members of wrongdoing simply because 
 
 ## 4. Automated Detection and Reports
 
-BanHammer includes automated detection features that may identify potential issues, including:
+Moderator includes automated detection features that may identify potential issues, including:
 
 - Suspicious messages or potential scams.
 - Advertisements that may violate server advertising rules.
@@ -57,7 +57,7 @@ Moderators review reports and decide whether any action is appropriate. BanHamme
 
 ## 5. Data Storage and Retention
 
-BanHammer stores its moderation data in a local SQLite database operated by the bot owner or server operator.
+Moderator stores its moderation data in a local SQLite database operated by the bot owner or server operator.
 
 Information may remain stored for as long as it is considered necessary for moderation, recordkeeping, and accountability purposes.
 
@@ -69,7 +69,7 @@ The bot does not currently provide automatic deletion of all stored information 
 
 ## 6. Data Sharing
 
-BanHammer does not sell collected information.
+Moderator does not sell collected information.
 
 Stored information may be accessed by authorised server moderators or bot operators when necessary for moderation and administration.
 
@@ -85,18 +85,18 @@ Submitting a request does not guarantee that all associated information will be 
 
 ## 8. Data Security
 
-Reasonable measures are taken to restrict access to BanHammer's stored information.
+Reasonable measures are taken to restrict access to Moderator's stored information.
 
 However, no storage system or method of data transmission can be guaranteed to be completely secure.
 
 ## 9. Changes to This Policy
 
-This Privacy Policy may be updated when BanHammer's functionality or data-handling practices change.
+This Privacy Policy may be updated when Moderator's functionality or data-handling practices change.
 
 The latest version will be made available at the location where this policy is published.
 
 ## 10. Contact
 
-For questions, concerns, or data-related requests regarding BanHammer, contact:
+For questions, concerns, or data-related requests regarding Moderator, contact:
 
 **toivbru@proton.me**
